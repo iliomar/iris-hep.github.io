@@ -13,11 +13,12 @@ logos:
     - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
     - /assets/images/codas-hep/logos/UPRM_logo.png
+    - /assets/images/codas-hep/logos/IAIFI.jpg
 ---
 
 ## My research:
 
-My current research includes modeling trigger efficiencies for emerging-jet searches, developing NMF-based anomaly-detection methods for offline detector data quality monitoring, and using flow-matching model for pileup mitigation and realistic event generation in high-energy physics.
+My current research includes modeling trigger efficiencies for emerging-jet searches and developing NMF-based anomaly-detection methods for offline detector data quality monitoring within the CMS experiment. I also work on using a flow matching model for pileup mitigation and realistic event generation in HEP.
 
 ## My expertise is:
 
@@ -29,8 +30,8 @@ Time management, sleep deprivation, and the ongoing challenge of balancing sever
 
 ## I've got my eyes on:
 
-Generative modeling for physics analysis and autoencoder-based anomaly detection for offline detector data quality monitoring.
+Autoencoder-based anomaly detection for offline detector data quality monitoring, and how large language models could help make physics analysis workflows more efficient.
 
 ## I want to know more about:
 
-Using Coffea for physics analysis, Dask, and parallel programming.
+Using Coffea and Dask for physics analysis, as well as parallel programming.
