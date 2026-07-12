@@ -10,9 +10,9 @@ orcid: https://orcid.org/my-orcid?orcid=0000-0002-3764-1798
 title: Graduate Student in Physics
 website: https://iliomar.github.io
 logos:
-    - /assets/images/codas-hep/logos/CMS.png
+    - /assets/images/codas-hep/logos/CMS.jpg
     - /assets/images/codas-hep/logos/Iris-hep-logo.png
-    - /assets/images/codas-hep/logos/UPRM.png
+    - /assets/images/codas-hep/logos/UPRM_logo.png
 ---
 
 ## My research:
